@@ -3,21 +3,21 @@ A fun game
 
 ## John
 
-1. Blue
+1. 
 2.
 3.
 4.
 
 ## Maria
 
-1. Red
+1. Yellow
 2.
 3.
 4.
 
 ## Leah
 
-1.
+1. Turquoise
 2.
 3.
 4.
